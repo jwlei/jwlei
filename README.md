@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Joachim</h1>
-<h3 align="center">Developer focused on improving myself</h3>
+<h1 align="left">I'm Joachim</h1>
+<h3 align="left">Developer focused on improving myself</h3>
 
 - 🔭 I’m currently working on [https://github.com/jwlei/real-time-object-detection-YOLOv5-cv2](https://github.com/jwlei/real-time-object-detection-YOLOv5-cv2)
 
