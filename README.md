@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 📫 Contact: **joleiros@gmail.com**
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
