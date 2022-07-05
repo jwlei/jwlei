@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [https://github.com/jwlei/real-time-object-detection-YOLOv5-cv2](https://github.com/jwlei/real-time-object-detection-YOLOv5-cv2)
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **C#**
 
 
 <h3 align="left">Languages and Tools:</h3>
