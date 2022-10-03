@@ -1,7 +1,7 @@
 <h1 align="left">I'm Joachim</h1>
 <h3 align="left">Developer focused on improving myself</h3>
 
-- 🔭 I’m currently working on [https://github.com/jwlei/real-time-object-detection-YOLOv5-cv2](https://github.com/jwlei/real-time-object-detection-YOLOv5-cv2)
+- 🔭 I’m currently working on [https://github.com/jwlei/real-time-object-detection-YOLOv5-cv2](https://jwlei.github.io)
 
 - 🌱 I’m currently learning **Spring and React**
 
