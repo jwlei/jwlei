@@ -1,7 +1,7 @@
 <h1 align="left">I'm Joachim</h1>
 <h3 align="left">Developer focused on improving myself</h3>
 
-- 🔭 I’m currently working on [https://jwlei.github.io](https://jwlei.github.io)
+- 🔭 I’m currently working on [https://www.jleiros.com](https://www.jleiros.com)
 
 - 🌱 I’m currently learning **Spring and React**
 
