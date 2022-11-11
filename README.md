@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [https://www.jleiros.com](https://www.jleiros.com)
 
-- 🌱 I’m currently learning **Spring and React**
+- 🌱 I’m currently learning **Spring**
 
 
 <h3 align="left">Languages and Tools:</h3>
