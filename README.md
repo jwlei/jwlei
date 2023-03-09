@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [https://www.jleiros.com](https://www.jleiros.com)
 
-- 🌱 I’m currently learning **PL/SQL**
+- 🌱 I’m currently learning **PL/SQL, C#** and **.NET**
 
 
 <h3 align="left">Languages and Tools:</h3>
