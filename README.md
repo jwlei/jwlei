@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [https://www.jleiros.com](https://www.jleiros.com)
 
-- 🌱 I’m currently working as a **Project consultant** at Hansen Technologies
+- 🌱 I’m currently learning **PL/SQL**
 
 
 <h3 align="left">Languages and Tools:</h3>
