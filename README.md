@@ -1,5 +1,5 @@
 <h1 align="left">Joachim</h1>
-- 🌱 I’m currently learning Oracle SQL, PL/SQL, C# and .NET
+🌱 I’m currently learning Oracle SQL, PL/SQL, C# and .NET
 
 
 <h3 align="left">Languages and Tools:</h3>
