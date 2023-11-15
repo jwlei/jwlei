@@ -1,9 +1,5 @@
-<h1 align="left">I'm Joachim</h1>
-<h3 align="left">Developer focused on improving myself</h3>
-
-- 🔭 I’m currently working on [https://www.jleiros.com](https://www.jleiros.com)
-
-- 🌱 I’m currently learning **PL/SQL, C#** and **.NET**
+<h1 align="left">Joachim</h1>
+- 🌱 I’m currently learning **Oracle SQL**, **PL/SQL, C#** and **.NET**
 
 
 <h3 align="left">Languages and Tools:</h3>
